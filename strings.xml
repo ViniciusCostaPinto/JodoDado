@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Jogo Dado</string>
+    <string name="rolardado">Pressione aqui</string>
+    <string name="Somar">Somar</string>
+</resources>
